@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 public static void main (String[] agrs) {
 Print("Start programm");
+Print("Start programm")
+readln(a)
 }
+>>>>>>> master
